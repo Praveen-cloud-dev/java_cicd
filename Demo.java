@@ -1,6 +1,6 @@
 public class Demo
 {
-	public staic void main(string arg[])
+	public static void main(String[] args)
 	{
 		System.out.println("welcome in Jenkins CICD");
 }
